@@ -5,9 +5,9 @@ spring:
 spring:
   profiles: test
   application:
-    name: tulingvip05-ms-test
+    name: dddddddddddddd
 server:
-  port: 8082
+  port: 8081
 ---
 spring:
   profiles: prod
