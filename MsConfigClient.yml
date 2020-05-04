@@ -8,6 +8,7 @@ spring:
     name: dddddddddddddd
 server:
   port: 8081
+flag: 123
 ---
 spring:
   profiles: prod
