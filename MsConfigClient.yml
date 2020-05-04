@@ -8,7 +8,7 @@ spring:
     name: MsConfigClient
 server:
   port: 8081
-flag: zzzz
+flag: '{cipher}8c5d3b44634d79b0063fecef2fed7c4be6526e981653b86f3caca942d5f1b32a'
 
 ---
 spring:
